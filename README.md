@@ -5,8 +5,8 @@ The final project at the end of the course [Getting and Cleaning Data](https://w
 **Here are the steps that must be performed before running the R script:**
 
 1. Download the zip file from [this URL](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
-2. Unzip the file.
-3. Move ALL of the following files to the SAME DIRECTORY as the R script:
+2. Unzip the file in the same folder.
+3. Move the following files to the SAME DIRECTORY as the R script:
 	* `features.txt`
 	* `subject_train.txt`
 	* `subject_test.txt`
@@ -15,8 +15,8 @@ The final project at the end of the course [Getting and Cleaning Data](https://w
 	* `y_train.txt`
 	* `y_test.txt`
 
-**Once those steps are complete, you can run the R script ([run_analysis.R](run_analysis.R)).** Note: it requires the [reshape2 package](http://cran.r-project.org/web/packages/reshape2/index.html), which can be downloaded from CRAN.
+**Run the R script ([run_analysis.R](run_analysis.R)).** Note: [reshape2 package](http://cran.r-project.org/web/packages/reshape2/index.html) is prerequesite, which can be downloaded from CRAN.
 
-**The output of the R script is a tidy data set, [tidydata.csv].**
+**Output is a tidy data set, [tidydata.csv].**
 
 You can read more about the data and the analysis in the code book included in the repository.
