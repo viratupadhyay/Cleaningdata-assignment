@@ -1,6 +1,6 @@
 ## Cleaningdata-assignment
 
-The class project for [Getting and Cleaning Data](https://www.coursera.org/course/getdata) was to read in the ["Human Activity Recognition Using Smartphones" data set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), perform an analysis on the data set, and output a tidy data set.
+The final project at the end of the course [Getting and Cleaning Data](https://www.coursera.org/course/getdata) was to read in the ["Human Activity Recognition Using Smartphones" data set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), perform an analysis on the data set, and output a tidy data set.
 
 **Here are the steps that must be performed before running the R script:**
 
@@ -17,6 +17,6 @@ The class project for [Getting and Cleaning Data](https://www.coursera.org/cours
 
 **Once those steps are complete, you can run the R script ([run_analysis.R](run_analysis.R)).** Note that it requires the [reshape2 package](http://cran.r-project.org/web/packages/reshape2/index.html), which can be downloaded from CRAN.
 
-**The output of the R script is a tidy data set, [tidy.csv](tidy.csv).**
+**The output of the R script is a tidy data set, [tidydata.csv].**
 
-You can read more about the data and the analysis in the [code book](CodeBook.md).
+You can read more about the data and the analysis in the code book.
